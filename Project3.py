@@ -8,7 +8,7 @@ import numpy as np
 import json
 import pandas as pd
 import numpy as np
-import sklearn
+
 
 #connecting database
 conn = sqlite3.connect("stock.sqlite")
