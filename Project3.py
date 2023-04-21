@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import unittest
 import sqlite3
 import csv
 import matplotlib.pyplot as plt
